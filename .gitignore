@@ -1,14 +1,14 @@
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
-[Bb]uild/
-[Bb]uilds/
+# [Bb]uild/
+# [Bb]uilds/
 Assets/AssetStoreTools*
 ###
 # Unity folders and files
 ###
 [Aa]ssets/AssetStoreTools*
-[Bb]uild/
+# [Bb]uild/
 [Ll]ibrary/
 [Ll]ocal[Cc]ache/
 [Oo]bj/
